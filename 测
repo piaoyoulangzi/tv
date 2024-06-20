@@ -1,0 +1,10 @@
+
+{
+      "key": "10",
+      "name": "10",
+      "type": 0,
+      "api": "https://www.afasu.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
