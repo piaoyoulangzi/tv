@@ -18,7 +18,7 @@
       "key": "drpy_js_豆瓣",
       "name": "🚶‍♂️个人专用💑",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/lib/drpy2.min.js",
+      "api": "https://gitcode.net/piaoyoulangzi/chunyingtianxia/-/raw/master/lib/drpy2.min.js",
       "ext": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/lib/douban12.js"
     },
     {
