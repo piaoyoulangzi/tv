@@ -18,8 +18,8 @@
       "key": "drpy_js_豆瓣",
       "name": "🚶‍♂️个人专用💑",
       "type": 3,
-      "api": "https://gitee.com/jwlangzi/tvbox/raw/master/lib/drpy2.min.js",
-      "ext": "https://gitee.com/jwlangzi/tvbox/raw/master/lib/douban12.js"
+      "api": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/lib/douban12.js"
     },
     {
       "key": "土豆网盘",
@@ -35,7 +35,7 @@
         "site": "https://tudou.lvdoui.top"
       },
       "timeout": 25,
-      "jar": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/jar/okjpg0420.txt"
+      "jar": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/jar/okjpg0420.txt"
     },
     {
       "key": "网盘配置",
@@ -45,7 +45,7 @@
       "searchable": 0,
       "changeable": 0,
       "jar": "https://github.com/piaoyoulangzi/wuliao/raw/main/pg.jar",
-      "ext": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/lib/tokenm.json"
+      "ext": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/lib/tokenm.json"
     },
     {
       "key": "AliShare",
@@ -58,7 +58,7 @@
       "filterable": 0,
       "timeout": 60,
       "jar": "https://github.com/piaoyoulangzi/wuliao/raw/main/pg.jar",
-      "ext": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/lib/tokenm.json$$$https://gitee.com/jwlangzi/tvboxziyong/raw/master/lib/alishare.txt$$$db$$$1",
+      "ext": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/lib/tokenm.json$$$https://raw.githubusercontent.com/piaoyoulangzi/tv/main/lib/alishare.txt$$$db$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -76,39 +76,39 @@
         "type": "rect",
         "ratio": 3.8
       },
-      "jar": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/lib/fan.txt;md5;e85e180ec8caae0d38c78a021a2494e0"
+      "jar": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/lib/fan.txt;md5;e85e180ec8caae0d38c78a021a2494e0"
     },
     {
       "key": "腾",
       "name": "🎄腾腾┃影视",
       "type": 3,
-      "api": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/lib/nxog.js",
-      "jar": "https://gitee.com/jwlangzi/zonghe/raw/master/ouge/jar.php;md5;4642bf29455e1bbc92414086532ff5b3",
-      "ext": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/lib/tt.js"
+      "api": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/lib/nxog.js",
+      "jar": "https://github.com/piaoyoulangzi/tv/raw/main/gsly/jar/jar.php;md5;4642bf29455e1bbc92414086532ff5b3",
+      "ext": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/lib/tt.js"
     },
     {
       "key": "优",
       "name": "🎄优优┃影视",
       "type": 3,
-      "api": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/lib/nxog.js",
-      "jar": "https://gitee.com/jwlangzi/zonghe/raw/master/ouge/jar.php;md5;4642bf29455e1bbc92414086532ff5b3",
+      "api": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/lib/nxog.js",
+      "jar": "https://github.com/piaoyoulangzi/tv/raw/main/gsly/jar/jar.php;md5;4642bf29455e1bbc92414086532ff5b3",
       "ext": "https://gitcode.net/piaoyoulangzi/chunyingtianxia/-/raw/master/lib/yy.js"
     },
     {
       "key": "芒",
       "name": "🎄芒芒┃影视",
       "type": 3,
-      "api": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/lib/nxog.js",
-      "jar": "https://gitee.com/jwlangzi/zonghe/raw/master/ouge/jar.php;md5;4642bf29455e1bbc92414086532ff5b3",
-      "ext": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/lib/mm.js"
+      "api": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/lib/nxog.js",
+      "jar": "https://github.com/piaoyoulangzi/tv/raw/main/gsly/jar/jar.php;md5;4642bf29455e1bbc92414086532ff5b3",
+      "ext": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/lib/mm.js"
     },
     {
       "key": "爱",
       "name": "🎄爱爱┃影视",
       "type": 3,
-      "api": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/lib/nxog.js",
-      "jar": "https://gitee.com/jwlangzi/zonghe/raw/master/ouge/jar.php;md5;4642bf29455e1bbc92414086532ff5b3",
-      "ext": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/lib/aa.js"
+      "api": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/lib/nxog.js",
+      "jar": "https://github.com/piaoyoulangzi/tv/raw/main/gsly/jar/jar.php;md5;4642bf29455e1bbc92414086532ff5b3",
+      "ext": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/lib/aa.js"
     },
     {
       "key": "New6v",
@@ -118,7 +118,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/jwlangzi/zonghe/raw/master/ouge/jar.php;md5;4642bf29455e1bbc92414086532ff5b3",
+      "jar": "https://github.com/piaoyoulangzi/tv/raw/main/gsly/jar/jar.php;md5;4642bf29455e1bbc92414086532ff5b3",
       "ext": "https://www.xb6v.com"
     },
     {
@@ -126,7 +126,7 @@
       "name": "💡热播┃影视",
       "type": 3,
       "api": "csp_TTian",
-      "jar": "https://gitee.com/jwlangzi/zonghe/raw/master/ouge/jar.php;md5;4642bf29455e1bbc92414086532ff5b3",
+      "jar": "https://github.com/piaoyoulangzi/tv/raw/main/gsly/jar/jar.php;md5;4642bf29455e1bbc92414086532ff5b3",
       "ext": "http://v.rbotv.cn"
     },
     {
@@ -138,7 +138,7 @@
       "filterable": 1,
       "api": "csp_XBPQ",
       "ext": "https://raw.githubusercontent.com/piaoyoulangzi/wuliao/main/mylib/chabei.json",
-      "jar": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/api/Yoursmile.jar"
+      "jar": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/api/Yoursmile.jar"
     },
     {
       "key": "360资源",
@@ -152,8 +152,8 @@
       "key": "畅梦",
       "name": "🍫畅梦",
       "type": 3,
-      "api": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/gsly/lib/drpy2.min.js",
-      "ext": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/js/changmeng.js"
+      "api": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/gsly/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/js/changmeng.js"
     },
     {
       "key": "文才影视",
@@ -162,18 +162,18 @@
       "api": "csp_Wexwencai",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/api/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"
+      "jar": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/api/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"
     },
     {
       "key": "金鱼影视",
       "name": "金鱼┃蓝光",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/api/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac",
+      "jar": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/api/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/js/jinyu.js"
+      "ext": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/js/jinyu.js"
     },
     {
       "key": "视频库",
@@ -183,7 +183,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/api/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac",
+      "jar": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/api/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac",
       "ext": "https://vidhub1.cc"
     },
     {
@@ -194,22 +194,22 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/api/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"
+      "jar": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/api/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"
     },
     {
       "key": "drpy_js_被窝电影",
       "name": "被窝┃影视",
       "type": 3,
-      "api": "https://gitee.com/jwlangzi/tvbox/raw/master/lib/drpy2.min.js",
-      "jar": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/api/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac",
-      "ext": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/gsly/被窝电影.js"
+      "api": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/lib/drpy2.min.js",
+      "jar": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/api/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac",
+      "ext": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/gsly/被窝电影.js"
     },
     {
       "key": "飞刀",
       "name": "飞刀🏂蓝光",
       "type": 1,
       "api": " http://www.feidaozy.com/api.php/provide/vod?",
-      "jar": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/api/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac",
+      "jar": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/api/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac",
       "searchable": 1,
       "changeable": 1,
       "categories": [
@@ -249,15 +249,15 @@
       "name": "米爱┃影视",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "jar": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/api/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac",
-      "ext": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/lib/%E7%B1%B3%E7%88%B1%E5%BD%B1%E8%A7%86.js"
+      "jar": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/api/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac",
+      "ext": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/lib/%E7%B1%B3%E7%88%B1%E5%BD%B1%E8%A7%86.js"
     },
     {
       "key": "低端影视",
       "name": "🔋低端┃影视",
       "type": 3,
       "api": "csp_Ddys",
-      "jar": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/api/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac",
+      "jar": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/api/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -270,16 +270,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/js/zhouci.json",
-      "jar": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/api/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"
+      "ext": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/js/zhouci.json",
+      "jar": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/api/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"
     },
     {
       "key": "drpy_js_人人影视",
       "name": "人人┃影视",
       "type": 3,
-      "api": "https://gitee.com/jwlangzi/tvbox/raw/master/lib/drpy2.min.js",
-      "jar": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/api/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac",
-      "ext": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/gsly/人人影视.js"
+      "api": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/lib/drpy2.min.js",
+      "jar": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/api/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac",
+      "ext": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/gsly/人人影视.js"
     },
     {
       "key": "豪华资源",
@@ -334,7 +334,7 @@
         "播放数组": "下载地址</h2>&&</ul>[不包含:网盘]",
         "播放列表": "<ul>&&</div>[包含:magnet]"
       },
-      "jar": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/gsly/jar/XBPQ.jar"
+      "jar": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/gsly/jar/XBPQ.jar"
     },
     {
       "key": "bt天堂1",
@@ -342,7 +342,7 @@
       "type": 3,
       "playerType": 1,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/gsly/jar/XBPQ.jar",
+      "jar": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/gsly/jar/XBPQ.jar",
       "ext": {
         "数组": "class=\"col-md-6\">&&</li>",
         "副标题": "span>更新时间：&&<a",
@@ -362,7 +362,7 @@
       "name": "爱坤🐔蓝光",
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
-      "jar": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/jar/fty.jar;md5;af3b125aa30b73ee5dcd13c56cef9465",
+      "jar": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/jar/fty.jar;md5;af3b125aa30b73ee5dcd13c56cef9465",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -410,19 +410,19 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/jar/fty.jar;md5;af3b125aa30b73ee5dcd13c56cef9465",
+      "jar": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/jar/fty.jar;md5;af3b125aa30b73ee5dcd13c56cef9465",
       "ext": "FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w=="
     },
     {
       "key": "js_磁力熊",
       "name": "🐻‍贝尔┃磁力",
       "type": 3,
-      "api": "https://gitee.com/jwlangzi/tvbox/raw/master/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/jar/fty.jar;md5;af3b125aa30b73ee5dcd13c56cef9465",
-      "ext": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/lib/bear.js"
+      "jar": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/jar/fty.jar;md5;af3b125aa30b73ee5dcd13c56cef9465",
+      "ext": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/lib/bear.js"
     },
     {
       "key": "csp_Ying",
@@ -432,7 +432,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/jar/fty.jar;md5;af3b125aa30b73ee5dcd13c56cef9465"
+      "jar": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/jar/fty.jar;md5;af3b125aa30b73ee5dcd13c56cef9465"
     },
     {
       "key": "七味影视",
@@ -461,7 +461,7 @@
       "name": "🎄暴風┃影视",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/?wd=",
-      "jar": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/jar/XBQH.jar;md5;3ec42e286452fc6c253ffe064eba6eaf",
+      "jar": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/jar/XBQH.jar;md5;3ec42e286452fc6c253ffe064eba6eaf",
       "playUrl": "",
       "categories": [
         "国产剧",
@@ -504,24 +504,24 @@
       "name": "🎄BT┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/jar/XBQH.jar;md5;3ec42e286452fc6c253ffe064eba6eaf",
-      "ext": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/lib/2BT.js"
+      "jar": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/jar/XBQH.jar;md5;3ec42e286452fc6c253ffe064eba6eaf",
+      "ext": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/lib/2BT.js"
     },
     {
       "key": "XBPQ_黑木耳",
       "name": "🎄黑木耳┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/jar/XBQH.jar;md5;3ec42e286452fc6c253ffe064eba6eaf",
-      "ext": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/lib/heimuer.json"
+      "jar": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/jar/XBQH.jar;md5;3ec42e286452fc6c253ffe064eba6eaf",
+      "ext": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/lib/heimuer.json"
     },
     {
       "key": "XBPQ_免费",
       "name": "🎄秒播┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/jar/XBQH.jar;md5;3ec42e286452fc6c253ffe064eba6eaf",
-      "ext": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/lib/zeqaht.json"
+      "jar": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/jar/XBQH.jar;md5;3ec42e286452fc6c253ffe064eba6eaf",
+      "ext": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/lib/zeqaht.json"
     },
     {
       "key": "csp_hanjulao",
@@ -531,8 +531,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/jar/HCCX.jar",
-      "ext": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/lib/hanjulao.json"
+      "jar": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/jar/HCCX.jar",
+      "ext": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/lib/hanjulao.json"
     },
     {
       "key": "csp_XYQHiker_电影港",
@@ -542,7 +542,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/lib/%E7%94%B5%E5%BD%B1%E6%B8%AF%E7%A3%81%E5%8A%9B.json"
+      "ext": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/lib/%E7%94%B5%E5%BD%B1%E6%B8%AF%E7%A3%81%E5%8A%9B.json"
     },
     {
       "key": "csp_New6v",
@@ -1013,9 +1013,9 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/lib/drpy2.min.js",
-      "jar": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/lib/fan.txt;md5;e85e180ec8caae0d38c78a021a2494e0",
-      "ext": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/lib/jp.js"
+      "api": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/lib/drpy2.min.js",
+      "jar": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/lib/fan.txt;md5;e85e180ec8caae0d38c78a021a2494e0",
+      "ext": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/lib/jp.js"
     },
     {
       "key": "Bili",
@@ -1029,7 +1029,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "jar": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/lib/fan.txt;md5;e85e180ec8caae0d38c78a021a2494e0",
+      "jar": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/lib/fan.txt;md5;e85e180ec8caae0d38c78a021a2494e0",
       "ext": "https://gitee.com/jwlangzi/zonghe/raw/master/fantaiying/ext/bilibili.json"
     },
     {
@@ -1208,8 +1208,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/jar/dongchen.jar",
-      "ext": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/lib/zizi.json"
+      "jar": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/jar/dongchen.jar",
+      "ext": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/lib/zizi.json"
     },
     {
       "key": "饭团影视",
@@ -1219,14 +1219,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/jar/dongchen.jar",
-      "ext": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/js/fantuan.json"
+      "jar": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/jar/dongchen.jar",
+      "ext": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/js/fantuan.json"
     },
     {
       "key": "蚂蚁",
       "name": "🐜1080P┃蚂蚁",
       "type": 3,
-      "jar": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/jar/c.jar",
+      "jar": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/jar/c.jar",
       "api": "csp_AppYsV2",
       "ext": "http://122.228.84.103:5822/api.php/app/",
       "searchable": 1,
@@ -1241,7 +1241,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/jar/P4.jar"
+      "jar": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/jar/P4.jar"
     },
     {
       "key": "无忧短剧",
@@ -1250,7 +1250,7 @@
       "api": "csp_Duanj",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/jar/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
+      "jar": "https://raw.githubusercontent.com/piaoyoulangzi/tv/main/jar/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
     },
     {
       "key": "drpy_js_榜单荐片4",
