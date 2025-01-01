@@ -2078,10 +2078,6 @@ CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
 东南卫视,http://yubox.xyz/php/lngd.php?id=483
 东南卫视,http://yuniptvunql.chinayungu.cn:65530/live/udnws/index.m3u8$黑龙江电信酒店
 东南卫视,rtp://225.1.4.128:1274$河南联通酒店
-凤凰中文,http://liveali.ifeng.com/live/fhzw.m3u8$江西联通酒店
-凤凰中文,https://playtvlive.ifeng.com/live/06olegegm4g.flv$河南联通酒店
-凤凰资讯,http://liveali.ifeng.com/live/fhzx.m3u8$江西联通酒店
-凤凰资讯,https://playtvlive.ifeng.com/live/06oleewqkn4.flv$河南联通酒店
 东南卫视,http://113.233.186.240:8888/rtp/232.0.0.74:1234$辽宁联通组播
 东南卫视,http://218.24.193.146:808/rtp/232.0.0.74:1234$辽宁联通组播
 东南卫视,http://61.138.128.226:19901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0$吉林联通酒店
@@ -5310,6 +5306,9 @@ CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 
 港澳,#genre#
+凤凰资讯,https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
+凤凰中文,https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
+凤凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
